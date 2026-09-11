@@ -1,0 +1,8 @@
+---
+title: Essays
+listing:
+  contents: '*.qmd'
+  feed: true
+---
+
+Research and original arguments from the camp.

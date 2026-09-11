@@ -1,0 +1,5 @@
+---
+title: Annotated library
+---
+
+Source dossiers will identify editions, languages, translations, passages, and limitations.

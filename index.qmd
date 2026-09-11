@@ -1,0 +1,15 @@
+---
+title: Chinese Cultural Mimetics
+---
+
+Study cultural transmission in China: Han and Manchu histories, classical traditions, religious and esoteric movements, imperial institutions and contemporary cultural forms. Distinguish documented influence from retrospective analogy.
+
+## The workshop
+
+Theory and experimental art investigating how cultural forms persist, combine, and change.
+
+Our work distinguishes retained source evidence, interpretation, and original creative propositions.
+
+- [Annotated library](library.qmd)
+- [Experiments](experiments.qmd)
+- [Corrections](corrections.qmd)

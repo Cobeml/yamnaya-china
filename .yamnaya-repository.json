@@ -1,0 +1,19 @@
+{
+  "campId": "camp-cultural-china",
+  "publicationId": "publication-2-1",
+  "version": 1,
+  "files": {
+    "index.qmd": "69d1495898f6ccbfe7fba7f4f1b3925a78589cf450cdb9ecaf2bda807b78794b",
+    "styles.css": "b4817e4565dd354981eb3f873b6b2320d63ba6d3bc8e4c81e0404d75cd77a854",
+    "_quarto.yml": "f7e130418d27a7d654d9b91a15239e5e3a0a32139ba9fad27ad69699d0c74b15",
+    "library.qmd": "3637149abdc8fdb457f3231465a1898ff1c5ef4fbef313c5bb4b2832cd412ab2",
+    "references.bib": "4cd0fb03fa5944db2f83ac6dfb2604d65ba1382fbfa270baadf2a99ff0a5b7ac",
+    "corrections.qmd": "57458e987aade48b36a8ed01d574533e24905f9edd85785de84fc4ac047d0738",
+    "experiments.qmd": "f1d7fd43156a7a685495b80dbecb0f87f29166ecd2bb38dde7a43b3f8584d870",
+    "essays/index.qmd": "adee21d973fff59350d2a500346359ab128ca582d9e94729ea49300493d36804",
+    "reports/index.qmd": "79c503a689155dd3928e3b1ecc6154eaa9f93b490a42816a8f235fe49ccae64e",
+    "README.md": "392fb772503bb1827a6ec006d56f0665af1f22735c59e79f494b597895696759",
+    ".gitignore": "acdaac6126465717de668c40d610a58eb96bfc28f47dd1c15b8d6fe13f0d09e3",
+    ".github/workflows/yamnaya-pages.yml": "238a8bd286a54dccaedd91873fbf3c1c6c66b1124d2d29bfeb73ccedb65dde6b"
+  }
+}

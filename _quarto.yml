@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: _site
+website:
+  title: "Chinese Cultural Mimetics"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Overview
+      - href: reports/index.qmd
+        text: Reports
+  search: true
+format:
+  html:
+    theme: cosmo
+    toc: true
+    code-fold: true
+    css: styles.css
+bibliography: references.bib
+execute:
+  freeze: false
+  cache: false
