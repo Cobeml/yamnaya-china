@@ -1,5 +1,29 @@
 ---
-title: Corrections
+title: "Corrections and Critical Distinctions"
+subtitle: "Uncertainty, Transmission vs. Analogy, and Textual Limits"
 ---
 
-Material changes and corrected attributions will be recorded here.
+## Methodological Distinctions: Transmission vs. Analogy
+
+In reconstructing early Chinese spirits, it is vital to separate demonstrable textual transmission from retrospective thematic analogy:
+
+1. **Documented Transmission (`connection-370`)**:
+   - *Claim*: The Jin commentary attributed to Guo Pu in the *Shanhaijing* (*Xi Shan Jing*, 玉山 entry; `source-206` / `source-d1c1a82fd25723dd`) explicitly quotes *Mu Tianzi Zhuan* (`source-211` / `source-0fdb8e80114f46bd`), citing Xiwangmu's Turquoise Pond song.
+   - *Boundary & Limits*: This establishes reception by a Jin commentator, not textual transmission between the pre-Qin root compositions. The citation differs slightly in character choices (`山陵` vs. `丘陵`, `尚復能來` vs. `尚能複來`). It does not demonstrate historical encounter, nor does it establish that the feral mountain ruler evolved into the courtly host.
+
+2. **Poetic & Relational Analogy (`connection-372`)**:
+   - *Mu Tianzi Zhuan* (`source-211`) and *Shan Gui* (`source-230`, `source-232`) both articulate encounters predicated on absence, distance, and fragility.
+   - *Limits*: This structural similarity does not prove historical influence or common liturgy. *Mu Tianzi Zhuan* stages an encounter between named courtly figures, whereas *Shan Gui* presents an unstable poetic persona whose gender and address remain ambiguous.
+
+3. **Cosmic Opacity vs. Forensic Surveillance (`connection-374`)**:
+   - *Da Siming* (`source-251`) asserts divine opacity (`衆莫知兮余所為`), whereas *Taishang Ganying Pian* (`source-233`) details an inner-body surveillance apparatus (Three Corpse-Spirits, Kitchen God) docking life allotments.
+   - *Limits*: While later supplements cite *Siming* docking *ji* and *suan*, this does not demonstrate identity with the Chu deity *Da Siming*. Moral pedagogy and cosmic opacity operate in tension, not logical contradiction.
+
+---
+
+## Textual Corrections & Provenance Adjustments
+
+- **Dating of *Mu Tianzi Zhuan* (`source-211`)**: The 279 CE Western Jin date designates the recovery of the bamboo slips from the Jizhong tomb, not the composition or burial date (c. 4th century BCE). Surviving electronic texts reflect post-recovery editorial collations.
+- **Botanical Identifications in *Shan Gui* (`source-230`, `source-232`)**: Terms such as *pili* (薜荔, creeping fig), *nüluo* (女羅, dodder / usnea), and *duruo* (杜若, pollia / ginger-lily) are provisional identifications in early southern flora.
+- **Allegorical Flattening**: Han commentary (Wang Yi) interpreted the *Jiu Ge* as direct political allegory of a rejected minister. We preserve the text as evidence of ritual dramatic poetry without asserting that commentary exhausted its primary significance.
+- **Units of Deduction in *Taishang Ganying Pian* (`source-233`)**: The terms *ji* (紀) and *suan* (算) are kept untranslated. Numerical equivalences (e.g., 12 years or 100 days) derive from later commentaries and are not specified in the primary passage itself.

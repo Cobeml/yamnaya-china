@@ -1,15 +1,90 @@
 ---
-title: Chinese Cultural Mimetics
+title: "Discovering Spirits: China"
+subtitle: "Forms of Presence, Distance, and Accounting in Classical and Medieval Traditions"
+author: "Chinese Cultural Mimetics"
 ---
 
-Study cultural transmission in China: Han and Manchu histories, classical traditions, religious and esoteric movements, imperial institutions and contemporary cultural forms. Distinguish documented influence from retrospective analogy.
+## Introduction: Unequal Access and Incommensurable Presence
 
-## The workshop
+Spirits in Chinese classical and medieval texts do not coalesce into a single, uniform pantheon or reflect a static national essence. Instead, textual witnesses present contrasting structures of encounter, sovereignty, and moral reckoning. Rather than an evolutionary sequence running from wild animism to imperial bureaucracy, the surviving literature records distinct relational models: geographic distance crossed by mortal longing, elusive vegetal presence fractured by doubt, sovereign opacity governing cosmic cycles, and rigorous somatic surveillance tallying ethical debt.
 
-Theory and experimental art investigating how cultural forms persist, combine, and change.
+In this issue, we examine three profiles through six primary source passages registered across pre-Qin and Song dynasty traditions, distinguishing primary evidence from later reception and editorial inference.
 
-Our work distinguishes retained source evidence, interpretation, and original creative propositions.
+```
+       [Textual Transmission & Analogy Map]
 
-- [Annotated library](library.qmd)
-- [Experiments](experiments.qmd)
-- [Corrections](corrections.qmd)
+  Mu Tianzi Zhuan (source-211)
+        |
+        | [connection-370: Documented Transmission (Commentary Citation)]
+        v
+  Shanhaijing comm. (source-206)
+
+  Mu Tianzi Zhuan (source-211) <... connection-372: Analogy ...> Shan Gui (source-230/232)
+   (Geographic divide / longing)                                   (Vegetal presence / doubt)
+
+  Da Siming (source-251)       <... connection-374: Analogy ...> Taishang Ganying Pian (source-233)
+   (Inscrutable cosmic voice)                                      (Somatic reporting / life ledger)
+```
+
+---
+
+## Profile 1: Xiwangmu (西王母) — Fangs and the Distance of Return
+
+### Who and How Known
+The Queen Mother of the West appears across contrasting early corpora. In the *Shanhaijing*, she is depicted as a feral, theriomorphic figure presiding over jade peaks:
+> 西王母其狀如人豹尾虎齒而善嘯蓬髮戴勝
+> 
+> *"The Queen Mother of the West has a human form, a leopard's tail and tiger's teeth, is skilled at whistling, and wears dishevelled hair and a sheng headdress."* (`source-206`, *Shanhaijing* juan 2, Siku recension)
+
+In *Mu Tianzi Zhuan*, however, she appears as an interlocutor exchanging formal verse with King Mu of Zhou at the Turquoise Pond:
+> 白雲在天，丘陵自出。道裡悠遠，山川間之 〈 間音諫 〉 ，將子無死 〈 將，請也 〉 ，尚能複來
+> 
+> *"White clouds are in heaven; hills emerge of themselves. The road is distant, mountains and rivers divide us. May you not die, and still be able to return."* (`source-211`, *Mu Tianzi Zhuan* juan 3)
+
+### What She Commands
+Neither passage records a formal divine commandment or theological dogma. The *Shanhaijing* entry describes an uncanny form without issuing moral orders. In *Mu Tianzi Zhuan*, Xiwangmu's song voices a conditional plea: survival across distance and mortality (`將子無死，尚能複來`). It does not confer immortality upon the king.
+
+### Where to Learn
+Study the retained witnesses: the *Shanhaijing* (玉山 entry) and *Mu Tianzi Zhuan* (juan 3). Guo Pu's Jin-dynasty commentary explicitly bridges these traditions by quoting the king's narrative, illustrating editorial reception rather than prehistoric unity.
+
+---
+
+## Profile 2: Shan Gui (山鬼) — Vegetal Presence and the Incursion of Doubt
+
+### Who and How Known
+In the *Chuci* (*Jiu Ge*), the mountain spirit is perceived through shifting sensory contours within southern Chu poetry:
+> 若有人兮山之阿，被薜荔兮帶女羅。
+> 
+> *"As if someone were in the mountain's recess, clothed in creeping fig and girdled with nüluo."* (`source-230`, *Jiu Ge*, line 1)
+
+The spirit's existence is anchored in mountain springs and flora, yet the communion fractures into hesitation:
+> 山中人兮芳杜若，飲石泉兮蔭松柏，君思我兮然疑作。
+> 
+> *"The mountain person is fragrant with duruo, drinks from stone springs and shelters beneath pine and cypress; you think of me—yet doubt arises."* (`source-232`, *Jiu Ge*, line 11)
+
+### What She Commands
+The text articulates no legislative command. Instead, an expectation of reciprocal attention is inferred through the poetic voice. The consumption of stone springs and wild herbs depicts wild sustenance rather than an institutional ascetic discipline. Rival readings interpret the figure as a local mountain numen in liturgical drama, an erotic persona, or a political allegory of the estranged minister.
+
+### Where to Learn
+Read the *Jiu Ge* witness preserved in the *Chuci* collection. The unstable speaker identities reflect southern ritual poetry preserved through Han editorial collation.
+
+---
+
+## Profile 3: Da Siming (大司命) and Lifespan Accounting
+
+### Who and How Known
+In the Chu hymns, Da Siming embodies sovereign cosmic opacity, operating beyond human comprehension:
+> 壹陰兮壹陽，衆莫知兮余所為。
+> 
+> *"Now yin, now yang; the multitude does not know what I do."* (`source-251`, *Jiu Ge*, line 8)
+
+By the Song dynasty, popular morality texts such as the *Taishang Ganying Pian* transpose destiny into internal somatic and domestic surveillance:
+> 又有三尸神，在人身中，每到庚申日，輒上詣天曹，言人罪過。月晦之日，竈神亦然。凡人有過，大則奪紀，小則奪算。
+> 
+> *"There are also Three Corpse-Spirits within people's bodies. On every gengshen day they ascend to Heaven's bureau and report people's transgressions. At month's end the Kitchen God does likewise. Major offences subtract ji, minor ones suan."* (`source-233`, *Taishang Ganying Pian*)
+
+### What They Command
+While Da Siming withholds the logic of divine action, the *Taishang Ganying Pian* commands rigorous ethical self-examination. Transgressions trigger explicit deductions of life allotments (*ji* and *suan*). Avoidance of wrongdoing is commanded for those seeking longevity, framing spirits as celestial recording officers.
+
+### Where to Learn
+Examine the *Jiu Ge* hymn alongside Song morality literature (*shanshu*). This juxtaposition illustrates an analogical tension between cosmic inscrutability and forensic moral bookkeeping.

@@ -1,5 +1,78 @@
 ---
-title: Annotated library
+title: "Annotated Library"
+subtitle: "Retained Primary Source Dossiers and Textual Provenance"
 ---
 
-Source dossiers will identify editions, languages, translations, passages, and limitations.
+This library documents the six primary source citations supporting the *Discovering Spirits: China* issue. English renderings are provisional translations by Ada, unless noted. Original classical texts, recensions, locators, and critical limitations are recorded below.
+
+---
+
+### Profile 1: Xiwangmu (西王母)
+
+#### 1. Feral Manifestation — `source-206`
+* **Author / Attribution**: Anonymous (with commentary attributed to Guo Pu / 郭璞, Jin dynasty).
+* **Work & Locator**: *Shanhaijing* (山海經), Juan 2 (*Xi Shan Jing* / 西次三經), 玉山 entry.
+* **Edition**: Wenyuange Siku Quanshu recension (欽定四庫全書本), retained evidence `source-d1c1a82fd25723dd`.
+* **Date**: Compilation broadly dated Warring States to Han; commentary c. 310–324 CE; Siku imperial recension is 18th century.
+* **Exact Passage**:
+  > 西王母其狀如人豹尾虎齒而善嘯蓬髮戴勝
+* **Provisional Rendering**: "The Queen Mother of the West has a human form, a leopard's tail and tiger's teeth, is skilled at whistling, and wears dishevelled hair and a sheng headdress."
+* **Limitations**: Preserved via late imperial court compilation; base text and Jin commentary are collated together.
+
+#### 2. The King Mu Exchange — `source-211`
+* **Author / Attribution**: Anonymous; recovered from Jizhong tomb cache in 279 CE; annotated by Guo Pu.
+* **Work & Locator**: *Mu Tianzi Zhuan* (穆天子傳), Juan 3, 乙丑 (yichou) day entry.
+* **Edition**: Sibu Congkan / Wikisource electronic witness, retained evidence `source-0fdb8e80114f46bd`.
+* **Date**: Warring States burial context; recovered 279 CE (Western Jin). Recovery date is not burial or composition date.
+* **Exact Passage (with glosses)**:
+  > 白雲在天，丘陵自出。道裡悠遠，山川間之 〈 間音諫 〉 ，將子無死 〈 將，請也 〉 ，尚能複來
+* **Provisional Rendering**: "White clouds are in heaven; hills emerge of themselves. The road is distant, mountains and rivers divide us. May you not die, and still be able to return."
+* **Limitations**: Reconstructed from damaged 3rd-century tomb bamboo slips; print ancestry unverified; reflects Jin editorial reconstructions.
+
+---
+
+### Profile 2: Shan Gui (山鬼)
+
+#### 3. Vegetal Cloaking — `source-230`
+* **Author / Attribution**: Qu Yuan (屈原, attr.).
+* **Work & Locator**: *Chuci* (楚辭), *Jiu Ge* (九歌), section 9: 山鬼 (Shan Gui), line 1.
+* **Edition**: Wikisource recension, retained evidence `source-222bb81db340d668`.
+* **Date**: Warring States period (c. 3rd century BCE).
+* **Exact Passage**:
+  > 若有人兮山之阿，被薜荔兮帶女羅。
+* **Provisional Rendering**: "As if someone were in the mountain's recess, clothed in creeping fig and girdled with nüluo."
+* **Limitations**: Botanical determinations are provisional. Han allegorical commentary (Wang Yi) filters early ritual context.
+
+#### 4. Sustenance and Doubt — `source-232`
+* **Author / Attribution**: Qu Yuan (屈原, attr.).
+* **Work & Locator**: *Chuci* (楚辭), *Jiu Ge* (九歌), section 9: 山鬼 (Shan Gui), line 11.
+* **Edition**: Wikisource recension, retained evidence `source-222bb81db340d668`.
+* **Date**: Warring States period (c. 3rd century BCE).
+* **Exact Passage**:
+  > 山中人兮芳杜若，飲石泉兮蔭松柏，君思我兮然疑作。
+* **Provisional Rendering**: "The mountain person is fragrant with duruo, drinks from stone springs and shelters beneath pine and cypress; you think of me—yet doubt arises."
+* **Limitations**: Speaker attribution and grammatical subject of doubt (*ran yi zuo*) remain contested among commentators.
+
+---
+
+### Profile 3: Da Siming & Lifespan Accounting
+
+#### 5. Sovereign Opacity — `source-251`
+* **Author / Attribution**: Qu Yuan (屈原, attr.).
+* **Work & Locator**: *Chuci* (楚辭), *Jiu Ge* (九歌), section 3: 大司命 (Da Siming), line 8.
+* **Edition**: Wikisource recension, retained evidence `source-222bb81db340d668`.
+* **Date**: Warring States period (c. 3rd century BCE).
+* **Exact Passage**:
+  > 壹陰兮壹陽，衆莫知兮余所為。
+* **Provisional Rendering**: "Now yin, now yang; the multitude does not know what I do."
+* **Limitations**: Astrological liturgy of Chu; textual survival shaped by Western Han compilers.
+
+#### 6. Somatic Surveillance & Lifespan Deductions — `source-233`
+* **Author / Attribution**: Anonymous (attributed to Taishang Laojun).
+* **Work & Locator**: *Taishang Ganying Pian* (太上感應篇), opening section.
+* **Edition**: Daozang / popular morality book tradition, retained evidence `source-6c9358eff3cd56d1`.
+* **Date**: Song dynasty (c. 12th century CE).
+* **Exact Passage**:
+  > 又有三尸神，在人身中，每到庚申日，輒上詣天曹，言人罪過。月晦之日，竈神亦然。凡人有過，大則奪紀，小則奪算。
+* **Provisional Rendering**: "There are also Three Corpse-Spirits within people's bodies. On every gengshen day they ascend to Heaven's bureau and report people's transgressions. At month's end the Kitchen God does likewise. Major offences subtract ji, minor ones suan."
+* **Limitations**: Generic Daozang / shanshu print ancestry is uncollated. Units *ji* (紀) and *suan* (算) are retained untranslated; specific temporal quantities represent later commentary.
